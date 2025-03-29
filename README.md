@@ -1,4 +1,4 @@
-# 🛰️ Análisis Global del Comercio de Armamento
+# 🛰️ Análisis Global del Comercio de Armamento 2025
 
 ## 📌 Propósito del proyecto
 
